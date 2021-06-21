@@ -1419,7 +1419,7 @@
                     if (t.ns = e, "foreignObject" === t.tag && (e = void 0, n = !0), i(t.children))
                         for (var a = 0, s = t.children.length; a < s; a++) {
                             var c = t.children[a];
-                            i(c.tag) && (r(c.ns) || o(n) && "svg" !== c.tag) && pn(c, e, n)
+                            i(c.tag) && (r(c.ns) || o(n) && "jpg" !== c.tag) && pn(c, e, n)
                         }
                 }
 
