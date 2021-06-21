@@ -403,7 +403,7 @@
                     staticClass: "image-content"
                 }, [a("img", {
                     attrs: {
-                        src: n("aefa")
+                        src: n("/img/save-energy.24def589.svg")
                     }
                 })])
             }, function() {
