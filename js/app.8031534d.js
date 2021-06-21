@@ -559,7 +559,7 @@
     },
     e739: function(e, t, n) {},
     f1e7: function(e, t, n) {
-        e.exports = n.p + "img/xeno-white.05138cc7.svg"
+        e.exports = n.p + "img/1624277362876.jpg"
     },
     f460: function(e, t, n) {}
 });
