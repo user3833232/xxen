@@ -403,7 +403,7 @@
                     staticClass: "image-content"
                 }, [a("img", {
                     attrs: {
-                        src: n("/img/save-energy.24def589.svg")
+                        src: n("aefa)
                     }
                 })])
             }, function() {
@@ -559,7 +559,7 @@
     },
     e739: function(e, t, n) {},
     f1e7: function(e, t, n) {
-        e.exports = n.p + "img/1624277362876.jpg"
+        e.exports = n.p + "xeno-white.05138cc7.svg"
     },
     f460: function(e, t, n) {}
 });
