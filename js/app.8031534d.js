@@ -559,7 +559,7 @@
     },
     e739: function(e, t, n) {},
     f1e7: function(e, t, n) {
-        e.exports = n.p + "https://raw.githubusercontent.com/user3833232/xxen/44cf27a899bd0d290177d2b287a8df8d4151031c/xeno-white.05138cc7.svg"
+        e.exports = n.p + "img/xeno-white.05138cc7.svg"
     },
     f460: function(e, t, n) {}
 });
